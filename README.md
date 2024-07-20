@@ -1,1 +1,2 @@
-# Wavecon
+Wavecon, a leading telecom provider in India, introduced its 5G services in May 2022 across major cities alongside other telecom companies. This analysis examines the performance of Wavecon's 5G rollout in 15 key urban centers Mumbai , Delhi , Bangalore, Hyderabad, aiming to uncover insights into the impact of 5G on revenue, plan performance, and key performance indicators (KPIs). The findings will inform strategic decisions for future growth and optimization.
+
